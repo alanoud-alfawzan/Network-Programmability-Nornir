@@ -1,0 +1,16 @@
+---
+
+ios_cat:
+    hostname: device_IP
+    platform: 'ios'
+    username: add_your_username
+    password: add_your_password
+   
+
+ios_xr:
+    hostname: 10.10.20.35
+    platform: 'ios'
+    username: add_your_username
+    password: add_your_password
+
+

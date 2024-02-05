@@ -1,0 +1,33 @@
+Hostname,Interface,CRC Error,Link Status,Protocol Status,MAC Address
+ios_cat,GigabitEthernet1,0,up,up,0050.56bf.9b4d
+ios_cat,GigabitEthernet2,0,administratively down,down,0050.56bf.6307
+ios_cat,GigabitEthernet3,0,administratively down,down,0050.56bf.fa16
+ios_cat,Loopback0,0,up,up,
+ios_cat,Loopback10,0,up,up,
+ios_cat,Loopback109,0,up,up,
+ios_cat,VirtualPortGroup0,0,up,up,001e.bdcb.08bd
+ios_xr,Null0,,up,up,
+ios_xr,MgmtEth0/RP0/CPU0/0,0,up,up,0050.56bf.5c72
+ios_xr,GigabitEthernet0/0/0/0,0,administratively down,administratively down,0050.56bf.0384
+ios_xr,GigabitEthernet0/0/0/1,0,administratively down,administratively down,0050.56bf.8eec
+ios_xr,GigabitEthernet0/0/0/2,0,administratively down,administratively down,0050.56bf.a189
+ios_xr,GigabitEthernet0/0/0/3,0,administratively down,administratively down,0050.56bf.3744
+ios_xr,GigabitEthernet0/0/0/4,0,administratively down,administratively down,0050.56bf.cd36
+ios_xr,GigabitEthernet0/0/0/5,0,administratively down,administratively down,0050.56bf.227a
+ios_xr,GigabitEthernet0/0/0/6,0,administratively down,administratively down,0050.56bf.f822
+ios_cat,GigabitEthernet1,0,up,up,0050.56bf.9b4d
+ios_cat,GigabitEthernet2,0,administratively down,down,0050.56bf.6307
+ios_cat,GigabitEthernet3,0,administratively down,down,0050.56bf.fa16
+ios_cat,Loopback0,0,up,up,
+ios_cat,Loopback10,0,up,up,
+ios_cat,Loopback109,0,up,up,
+ios_cat,VirtualPortGroup0,0,up,up,001e.bdcb.08bd
+ios_xr,Null0,,up,up,
+ios_xr,MgmtEth0/RP0/CPU0/0,0,up,up,0050.56bf.5c72
+ios_xr,GigabitEthernet0/0/0/0,0,administratively down,administratively down,0050.56bf.0384
+ios_xr,GigabitEthernet0/0/0/1,0,administratively down,administratively down,0050.56bf.8eec
+ios_xr,GigabitEthernet0/0/0/2,0,administratively down,administratively down,0050.56bf.a189
+ios_xr,GigabitEthernet0/0/0/3,0,administratively down,administratively down,0050.56bf.3744
+ios_xr,GigabitEthernet0/0/0/4,0,administratively down,administratively down,0050.56bf.cd36
+ios_xr,GigabitEthernet0/0/0/5,0,administratively down,administratively down,0050.56bf.227a
+ios_xr,GigabitEthernet0/0/0/6,0,administratively down,administratively down,0050.56bf.f822
